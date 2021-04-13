@@ -4,6 +4,8 @@ repo: uptime-prototype # Your GitHub repository name
 
 # Add your sites here
 sites:
+  - name: Covenant Eyes
+    url: https://www.covenanteyes.com/
   - name: Google
     url: https://www.google.com
   - name: Wikipedia
